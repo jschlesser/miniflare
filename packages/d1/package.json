@@ -1,6 +1,6 @@
 {
   "name": "@jschlesser/d1",
-  "version": "2.12.1",
+  "version": "2.12.2",
   "description": "Workers D1 module for Miniflare: a fun, full-featured, fully-local simulator for Cloudflare Workers",
   "keywords": [
     "cloudflare",
